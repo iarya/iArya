@@ -1,0 +1,60 @@
+﻿@using iArya.Domain.Users
+@model IEnumerable<User>
+
+
+<!DOCTYPE html>
+
+<html lang="en" class="light-style layout-wide customizer-hide" dir="ltr" data-theme="theme-default" data-assets-path="../assets/" data-template="vertical-menu-template-free">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+
+    <title>Login Basic - Pages | Sneat - Bootstrap 5 HTML Admin Template - Pro</title>
+
+
+    <partial name="_iHeaderRefrences" />
+
+    <body>
+
+        <div class="card">
+            <h5 class="card-header">Table Basic</h5>
+            <div class="table-responsive text-nowrap">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Username</th>
+                            <th>Email Address</th>
+                     
+                            <th>IsDelete</th>
+                            <th>Modif Date</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody class="table-border-bottom-0">
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <i class="bx bxl-angular bx-sm text-danger me-3"></i>
+                                    <span class="fw-medium">@item.UserName</span>
+                                </td>
+                                <td>@item.Email</td>
+                               
+                                <td><span class="badge bg-label-primary me-1">@item.IsDelete</span></td>
+                                <td><span class="badge bg-label-primary me-1">@item.UpdateDate</span></td>
+                                <td>
+                                    <input type="button" class="btn btn-warning" value="Edit" />
+                                </td>
+                            </tr>
+                        }
+      
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <partial name="_Footer" />
+        <partial name="_iFooterRefrences" />
+    </body>
+</head>
+</html>

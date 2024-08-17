@@ -1,0 +1,11 @@
+D:\ASP Workspace\iArya\iArya.Application\bin\Debug\net7.0\iArya.Application.deps.json
+D:\ASP Workspace\iArya\iArya.Application\bin\Debug\net7.0\iArya.Application.dll
+D:\ASP Workspace\iArya\iArya.Application\bin\Debug\net7.0\iArya.Application.pdb
+D:\ASP Workspace\iArya\iArya.Application\obj\Debug\net7.0\iArya.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP Workspace\iArya\iArya.Application\obj\Debug\net7.0\iArya.Application.AssemblyInfoInputs.cache
+D:\ASP Workspace\iArya\iArya.Application\obj\Debug\net7.0\iArya.Application.AssemblyInfo.cs
+D:\ASP Workspace\iArya\iArya.Application\obj\Debug\net7.0\iArya.Application.csproj.CoreCompileInputs.cache
+D:\ASP Workspace\iArya\iArya.Application\obj\Debug\net7.0\iArya.Application.dll
+D:\ASP Workspace\iArya\iArya.Application\obj\Debug\net7.0\refint\iArya.Application.dll
+D:\ASP Workspace\iArya\iArya.Application\obj\Debug\net7.0\iArya.Application.pdb
+D:\ASP Workspace\iArya\iArya.Application\obj\Debug\net7.0\ref\iArya.Application.dll

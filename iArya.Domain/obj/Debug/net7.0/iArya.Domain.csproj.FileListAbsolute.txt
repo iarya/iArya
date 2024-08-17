@@ -1,0 +1,12 @@
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\iArya.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\iArya.Domain.AssemblyInfoInputs.cache
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\iArya.Domain.AssemblyInfo.cs
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\iArya.Domain.csproj.CoreCompileInputs.cache
+D:\ASP Workspace\iArya\iArya.Domain\bin\Debug\net7.0\iArya.Domain.deps.json
+D:\ASP Workspace\iArya\iArya.Domain\bin\Debug\net7.0\iArya.Domain.dll
+D:\ASP Workspace\iArya\iArya.Domain\bin\Debug\net7.0\iArya.Domain.pdb
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\iArya.Domain.dll
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\refint\iArya.Domain.dll
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\iArya.Domain.pdb
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\ref\iArya.Domain.dll
+D:\ASP Workspace\iArya\iArya.Domain\obj\Debug\net7.0\iArya.Domain.csproj.AssemblyReference.cache

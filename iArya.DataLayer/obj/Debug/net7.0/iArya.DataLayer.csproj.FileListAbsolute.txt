@@ -1,0 +1,17 @@
+D:\ASP Workspace\iArya\iArya.DataLayer\bin\Debug\net7.0\iArya.DataLayer.deps.json
+D:\ASP Workspace\iArya\iArya.DataLayer\bin\Debug\net7.0\iArya.DataLayer.dll
+D:\ASP Workspace\iArya\iArya.DataLayer\bin\Debug\net7.0\iArya.DataLayer.pdb
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.DataLayer.AssemblyInfoInputs.cache
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.DataLayer.AssemblyInfo.cs
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.DataLayer.csproj.CoreCompileInputs.cache
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.DataLayer.dll
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\refint\iArya.DataLayer.dll
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.DataLayer.pdb
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\ref\iArya.DataLayer.dll
+D:\ASP Workspace\iArya\iArya.DataLayer\bin\Debug\net7.0\iArya.DataLayer.runtimeconfig.json
+D:\ASP Workspace\iArya\iArya.DataLayer\bin\Debug\net7.0\iArya.Domain.dll
+D:\ASP Workspace\iArya\iArya.DataLayer\bin\Debug\net7.0\iArya.Domain.pdb
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.DataLayer.csproj.AssemblyReference.cache
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.Da.80228A93.Up2Date
+D:\ASP Workspace\iArya\iArya.DataLayer\obj\Debug\net7.0\iArya.DataLayer.genruntimeconfig.cache
